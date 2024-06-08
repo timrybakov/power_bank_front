@@ -25,7 +25,7 @@ export default function App() {
           <h4>How it works?</h4>
           <ActionSection />
           <h4>Station map</h4>
-          <APIProvider apiKey={'AIzaSyC1Xg0nFi2KiWhv6pDPK37QmIMXiY1_qL0'} libraries={['marker']}>
+          <APIProvider apiKey={'Token'} libraries={['marker']}>
             <StationMap />
           </APIProvider>
           <QASection />
