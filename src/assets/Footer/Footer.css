@@ -1,0 +1,60 @@
+.footer-container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.footer-container-elements {
+    display: flex;
+    flex-direction: column;
+}
+
+.first-block {
+    display: flex;
+    padding-bottom: .5vh;
+    border-bottom: 1px solid rgba(149, 131, 234, 0.5);
+}
+
+.logo-data {
+    width: 16.667%;
+}
+
+.second-block {
+    display: flex;
+}
+
+.info-politics {
+    height: 7.5vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 3.5vw;
+}
+
+.info-politics a {
+    font-size: 1.25vw;
+    font-family: 'Gilroy';
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.email-telegram {
+    display: flex;
+    align-items: center;
+}
+
+.email-telegram span {
+    font-size: 1.75vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: .5vw;
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.email-telegram span img {
+    height: 2.6vh;
+    padding-top: .15vh;
+    padding-left: 5vw;
+}

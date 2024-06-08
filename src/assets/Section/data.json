@@ -1,0 +1,17 @@
+{
+    "supervisor" : {
+        "experiance": "'I use a few times a month when my battery suddenly goes dead. I do not worry about it and do not have to worry about charging my powerbank when Power Powerfull is literally everywhere.'",
+        "name": "Denis",
+        "position": "Supervisor"
+    },
+    "courier" : {
+        "experiance": "'I take it on every shift, sometimes 2-3 times. It is great that there is a tariff for couriers. Administration and collectors also use the service for work.'",
+        "name": "Michael",
+        "position": "Courier"
+    },
+    "field_manager": {
+        "experiance": "'The service is great at helping me work non-stop and make the most of what you have planned for the day. I do not have to waste time recharging my gadget.'",
+        "name": "Aleksandr",
+        "position": "Field manager"
+    }
+}

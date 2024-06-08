@@ -1,0 +1,91 @@
+.block-logo {
+    width: 13%;
+    height: 100%;
+    margin-left: 0%;
+}
+
+.logo {
+    width: 90%;
+}
+
+.under-logo {
+    font-family: 'Gilroy';
+    font-size: 1.25vw;
+    color: rgba(255, 255, 255, 0.5);
+    padding-left: .5vw;
+}
+
+#SignUp {
+    width: 9vw;
+    height: fit-content;
+    font-family: Gilroy;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    color: black;
+    background-color: white;
+    background-size: auto;
+    border-radius: 30px;
+    padding: .5vh 0;
+}
+
+#Rent {
+    height: fit-content;
+    color: #B09FFF;
+    background-color: white;
+    border-radius: 20px;
+    padding-top: .5vh;
+    padding-bottom: .5vh;
+}
+
+.elements {
+    width: 100%;
+    height: 5.5vh;
+    color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 0;
+    gap: 5vw;
+}
+
+.block-navbar {
+    width: 50vw;
+    height: 5.5vh;
+    position: relative;
+    color: white;
+    display: flex;
+    align-items: center;
+    font-family: 'Gilroy';
+    font-size: 1.5vw;
+    margin-left: 20%;
+}
+
+.block-navbar-footer {
+    width: 100%;
+    height: 5.5vh;
+    position: relative;
+    color: white;
+    font-family: 'Gilroy';
+    font-size: 1.5vw;
+    margin-left: 10%;
+}
+
+.block-navbar Button:hover{
+    transition: .3s;
+}
+
+.block-navbar-footer Button:hover{
+    transition: .3s;
+}
+
+.auth {
+    width: 16vw;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-bottom: 0;
+}

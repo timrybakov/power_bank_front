@@ -1,0 +1,29 @@
+{
+    "title": "Answers on questions",
+    "rows": [
+      {
+        "title": "How much does it cost",
+        "content": "It varies from place to place. The average cost is approximately 2€ per day. To find out the current rate, select a charging station in the app."
+      },
+      {
+        "title": "How to use it?",
+        "content": "• Create an account - your phone number is required.<br><br> • Choose a convenient station on the map. We'll help you charge your phone at the mall, airport, train station and thousands of other places around the city.<br><br> • When you're there, look for a vending machine labeled PowerPowerfull!<br><br> • Follow the instructions on the machine.<br><br> • Pay your rent. Important: we have cashless payment only.<br><br> • Done! You can take the powerbank.<br><br> • You can return the powerbank to the nearest station - you can find it on the map. We will only show you the vending machines where you can return the charge."
+      },
+      {
+        "title": "What cables are included?",
+        "content": "Type-C, micro-USB, Lightning for iPhone. Connect any cable of your choice - they are built into the powerbank."
+      },
+      {
+        "title": "How safe is a powerbank?",
+        "content": "Completely safe - just like a normal charger. Our powerbanks are manufactured in compliance with all international standards, Apple and EAC certification."
+      },
+      {
+        "title": "How do I return a powerbank to the machine?",
+        "content": "1. Find a return machine in the app - we'll show you the nearest one on the map.<br><br>2. Make sure the wire from the powerbank is plugged back into the socket.<br><br>3. The powerbank should be inserted into the cell with the side where the wires are attached.<br><br>4.Make sure the powerbank is fully inserted: gently pull it toward you. If it doesn't come out of the cell, then it's done.<br><br>5. Check the app: you'll get a message that the powerbank was successfully returned.<br><br>If something went wrong during the return, contact our support team. The phone number is 0 950 402-274, there is a chat in Telegram."
+      },
+      {
+        "title": "The machine is full of cells and I can't dump the charge. What do I do?",
+        "content": "<strong>Most importantly:</strong>  do not leave your powerbank with other people, even if it's a waiter. The same person who rented it must return the powerbank.<br><br>Check the map of charging stations in the app to find the nearest place where you can charge it.<br><br>The phone number is 0 950 402-274, there is a chat in Telegram."
+      }
+    ]
+}
